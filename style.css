@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -18,7 +18,7 @@ textarea{
   background-color: transparent;
   color: black;
   border-radius: 0;
-  border-bottom: 10px solid black;
+  border-bottom: 8px solid orangered;
 }
 
 .description{
@@ -68,4 +68,15 @@ textarea{
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
+}
+.display-3{
+  color: orangered;
+}
+#date-time{
+  color: orangered;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.lead{
+  font-weight: bolder;
 }

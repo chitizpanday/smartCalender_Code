@@ -18,7 +18,8 @@ textarea{
   background-color: transparent;
   color: black;
   border-radius: 0;
-  border-bottom: 8px solid orangered;
+  border-bottom: 5px solid orangered;
+  
 }
 
 .description{
@@ -76,7 +77,47 @@ textarea{
   color: orangered;
   font-weight: bolder;
   font-size: 20px;
+  
 }
 .lead{
   font-weight: bolder;
 }
+
+.container{
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+}
+  
+#label1{
+height: 20px;
+width: 700px;
+color: white;
+font-weight: bolder;
+}
+
+#label2{
+  height: 25px;
+  width: 700px;
+  color: white;
+  font-weight: bolder;
+  }
+  #label3{
+    height: 25px;
+    width: 700px;
+    color: white;
+    font-weight: bolder;
+    }
+    #label4{
+      height: 25px;
+      width: 700px;
+      color: white;
+      font-weight: bolder;
+      }
+      #label5{
+        height: 25px;
+        width: 700px;
+        color: white;
+        font-weight: bolder;
+        }
+        

@@ -19,9 +19,26 @@ textarea{
   color: black;
   border-radius: 0;
   border-bottom: 5px solid orangered;
+  padding-top: 5px;
+  padding-bottom: 5px;
   
 }
 
+#grey{
+  background-color: grey;
+  border-radius: 10px;
+  height: 30px;
+}
+#red{
+  background-color: rgb(177, 43, 43);
+  border-radius: 10px;
+  height: 30px;
+}
+#green{
+  background-color: green;
+  border-radius: 10px;
+  height: 30px;
+}
 .description{
   white-space: pre-wrap;
 }
@@ -58,13 +75,7 @@ textarea{
   color: white;
 }
 
-.saveBtn {
-  border-left: 1px solid black;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
-  background-color: #06AED5;
-  color: white;
-}
+
 
 .saveBtn i:hover {
   font-size: 20px;
@@ -114,10 +125,48 @@ font-weight: bolder;
       color: white;
       font-weight: bolder;
       }
-      #label5{
-        height: 25px;
-        width: 700px;
-        color: white;
-        font-weight: bolder;
-        }
-        
+ #label5{
+  height: 25px;
+   width: 700px;
+   color: white;
+   font-weight: bolder;
+   }
+.col-2{
+  background-color: rgb(228, 98, 47);
+  border: 2px solid black;
+  border-radius: 10px;
+  height: 70px;
+  display: flex; 
+  align-items: center;
+  justify-content: center;  
+}
+
+.col-8{
+  border-radius: 10px ;
+  height: 70px; 
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+#button1{
+  width:90px;
+  height: 30px;
+  font-weight: bolder;
+  border-radius: 10px;
+}
+
+#button1:hover{
+  background-color: #000000;
+  color: white;
+}
+
+footer{
+  text-align: center;
+  font-weight: bolder;
+}
+   

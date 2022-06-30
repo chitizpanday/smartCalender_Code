@@ -14,10 +14,6 @@ THEN the user can enter an event
 WHEN user clicks the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN user refreshes the page
-THEN the saved events persist
-=======
+THEN the saved events persists
 
-
-
-
->>>>>>> 0f81220deb53d30a3dcddcd290d63ec70c689306
+![Screenshot (50)](https://user-images.githubusercontent.com/105695567/176576065-3de126d4-c784-4c29-8c7f-a1829fc01667.png)

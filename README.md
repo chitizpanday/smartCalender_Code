@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # smartCalender_Code
 this challenge assignment seeks to Create a simple calendar application that allows a user to save events for each hour of the day that will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
@@ -14,3 +15,9 @@ WHEN user clicks the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN user refreshes the page
 THEN the saved events persist
+=======
+
+
+
+
+>>>>>>> 0f81220deb53d30a3dcddcd290d63ec70c689306
